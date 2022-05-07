@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_activity_main.xml.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\nav_activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_wallpaper_activity.xml.flat",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\wallpaper_activity.xml"
     },
@@ -16,6 +12,14 @@
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\nav_wallpaper_activity.xml"
     },
     {
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\anim_button_animation.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\anim\\button_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_indicator_selected.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\indicator_selected.xml"
+    },
+    {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_gallery.xml.flat",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
     },
@@ -24,16 +28,12 @@
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_loadgif.xml.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\loadgif.xml"
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_about_us.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\ic_about_us.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_privacy_policy.xml.flat",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\activity_privacy_policy.xml"
-    },
-    {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_slideshow.xml.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
@@ -44,28 +44,28 @@
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\menu\\drawer.xml"
     },
     {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_floating_button.xml.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\floating_button.xml"
-    },
-    {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_floating_button.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\floating_button.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\menu\\menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_content_drawer.xml.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\content_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_drawer.xml.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\app_bar_drawer.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -84,6 +84,10 @@
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_drawer.xml.flat",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\nav_header_drawer.xml"
     },
@@ -92,8 +96,8 @@
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_slideshow.xml.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_rate.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\ic_rate.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main_drawer.xml.flat",
@@ -112,12 +116,8 @@
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_camera.xml.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
-    },
-    {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_loadgif.xml.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\loadgif.xml"
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_screen.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\layout_screen.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
@@ -134,6 +134,10 @@
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_indicator_default.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\indicator_default.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
@@ -160,16 +164,20 @@
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\ic_next.xml"
     },
     {
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_privacy.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\ic_privacy.xml"
+    },
+    {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_about_us.xml.flat",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\activity_about_us.xml"
     },
     {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\raw_loadinggif.json.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\raw\\loadinggif.json"
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_indicator_selector.xml.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\drawable\\indicator_selector.xml"
     },
     {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_gallery.xml.flat",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\raw_loadinggif.json.flat",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\raw\\loadinggif.json"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",

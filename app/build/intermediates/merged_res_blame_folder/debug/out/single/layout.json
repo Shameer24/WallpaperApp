@@ -4,12 +4,16 @@
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\aboutus_content.xml"
     },
     {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_drawer.xml",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\app_bar_drawer.xml"
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_screen.xml",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\layout_screen.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_drawer.xml",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\app_bar_drawer.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
@@ -40,8 +44,8 @@
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\nav_header_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\hello.xml",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\hello.xml"
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\activity_intro.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about_us.xml",
@@ -64,12 +68,12 @@
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\content_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\floating_button.xml",
-        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\floating_button.xml"
-    },
-    {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pripol_content.xml",
         "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\pripol_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\floating_button.xml",
+        "source": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\src\\main\\res\\layout\\floating_button.xml"
     },
     {
         "merged": "C:\\Users\\crist\\AndroidStudioProjects\\WallpaperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",

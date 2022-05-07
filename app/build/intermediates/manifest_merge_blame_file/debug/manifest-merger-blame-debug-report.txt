@@ -11,112 +11,118 @@
 9-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:6:22-64
 12    <uses-permission android:name="android.permission.SET_WALLPAPER" />
-12-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:6:5-72
-12-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:6:22-69
+12-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:7:5-72
+12-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:7:22-69
 13
 14    <application
-14-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:8:5-35:19
+14-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:9:5-41:19
 15        android:allowBackup="true"
-15-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:9:9-35
+15-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:10:9-35
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 16-->[androidx.core:core:1.7.0] C:\Users\crist\.gradle\caches\transforms-3\02483169c4c9e0ddffa88758188ac6f1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 17        android:debuggable="true"
 18        android:icon="@mipmap/ic_launcher"
-18-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:10:9-43
+18-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:11:9-43
 19        android:label="@string/app_name"
-19-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:11:9-41
+19-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:12:9-41
 20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:12:9-54
+20-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:13:9-54
 21        android:supportsRtl="true"
-21-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:13:9-35
-22        android:testOnly="true"
-23        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-23-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:15:9-65
-24        android:usesCleartextTraffic="true" >
-24-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:14:9-44
-25        <activity
-25-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:16:9-18:40
-26            android:name="com.example.wallpaperapp.PrivacyPolicyActivity"
-26-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:17:13-50
-27            android:exported="false" />
-27-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:18:13-37
-28        <activity
-28-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:19:9-21:40
-29            android:name="com.example.wallpaperapp.AboutUsActivity"
-29-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:20:13-44
-30            android:exported="false" />
-30-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:21:13-37
-31        <activity
-31-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:22:9-24:40
-32            android:name="com.example.wallpaperapp.WallpaperActivity"
-32-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:23:13-46
-33            android:exported="false" />
-33-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:24:13-37
-34        <activity
-34-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:25:9-34:20
-35            android:name="com.example.wallpaperapp.MainActivity"
-35-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:26:13-41
-36            android:exported="true"
-36-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:27:13-36
-37            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-37-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:28:13-69
-38            <intent-filter>
-38-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:29:13-33:29
-39                <action android:name="android.intent.action.MAIN" />
-39-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:30:17-69
-39-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:30:25-66
-40
-41                <category android:name="android.intent.category.LAUNCHER" />
-41-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:32:17-77
-41-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:32:27-74
-42            </intent-filter>
-43        </activity>
-44
-45        <provider
-45-->[com.squareup.picasso:picasso:2.71828] C:\Users\crist\.gradle\caches\transforms-3\94cc5caab3398281ed773abedd94675e\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
-46            android:name="com.squareup.picasso.PicassoProvider"
-46-->[com.squareup.picasso:picasso:2.71828] C:\Users\crist\.gradle\caches\transforms-3\94cc5caab3398281ed773abedd94675e\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
-47            android:authorities="com.tequip.wallpaperapp.com.squareup.picasso"
-47-->[com.squareup.picasso:picasso:2.71828] C:\Users\crist\.gradle\caches\transforms-3\94cc5caab3398281ed773abedd94675e\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
-48            android:exported="false" />
-48-->[com.squareup.picasso:picasso:2.71828] C:\Users\crist\.gradle\caches\transforms-3\94cc5caab3398281ed773abedd94675e\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
-49        <provider
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-50            android:name="androidx.startup.InitializationProvider"
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-51            android:authorities="com.tequip.wallpaperapp.androidx-startup"
-51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-52            android:exported="false" >
-52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-53            <meta-data
-53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-55                android:value="androidx.startup" />
-55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+21-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:14:9-35
+22        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+22-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:16:9-65
+23        android:usesCleartextTraffic="true" >
+23-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:15:9-44
+24        <activity
+24-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:18:9-20:40
+25            android:name="com.example.wallpaperapp.PrivacyPolicyActivity"
+25-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:19:13-50
+26            android:exported="false" />
+26-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:20:13-37
+27        <activity
+27-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:21:9-23:40
+28            android:name="com.example.wallpaperapp.AboutUsActivity"
+28-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:22:13-44
+29            android:exported="false" />
+29-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:23:13-37
+30        <activity
+30-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:24:9-26:40
+31            android:name="com.example.wallpaperapp.WallpaperActivity"
+31-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:25:13-46
+32            android:exported="false" />
+32-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:26:13-37
+33        <activity
+33-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:27:9-31:20
+34            android:name="com.example.wallpaperapp.MainActivity"
+34-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:28:13-41
+35            android:exported="true"
+35-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:29:13-36
+36            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+36-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:30:13-69
+37        </activity>
+38        <activity
+38-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:32:9-39:20
+39            android:name="com.example.wallpaperapp.IntroActivity"
+39-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:32:19-48
+40            android:exported="true" >
+40-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:33:13-36
+41            <intent-filter>
+41-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:34:13-38:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:35:17-69
+42-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:35:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:37:17-77
+44-->C:\Users\crist\AndroidStudioProjects\WallpaperApp\app\src\main\AndroidManifest.xml:37:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <provider
+48-->[com.squareup.picasso:picasso:2.71828] C:\Users\crist\.gradle\caches\transforms-3\94cc5caab3398281ed773abedd94675e\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+49            android:name="com.squareup.picasso.PicassoProvider"
+49-->[com.squareup.picasso:picasso:2.71828] C:\Users\crist\.gradle\caches\transforms-3\94cc5caab3398281ed773abedd94675e\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+50            android:authorities="com.tequip.wallpaperapp.com.squareup.picasso"
+50-->[com.squareup.picasso:picasso:2.71828] C:\Users\crist\.gradle\caches\transforms-3\94cc5caab3398281ed773abedd94675e\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+51            android:exported="false" />
+51-->[com.squareup.picasso:picasso:2.71828] C:\Users\crist\.gradle\caches\transforms-3\94cc5caab3398281ed773abedd94675e\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+52        <provider
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+54            android:authorities="com.tequip.wallpaperapp.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
 56            <meta-data
-56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\crist\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\crist\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
 58                android:value="androidx.startup" />
-58-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\crist\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-59        </provider>
-60
-61        <uses-library
-61-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-62            android:name="androidx.window.extensions"
-62-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-63            android:required="false" />
-63-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\crist\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\crist\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\crist\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+62        </provider>
+63
 64        <uses-library
-64-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-65            android:name="androidx.window.sidecar"
-65-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+64-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+65            android:name="androidx.window.extensions"
+65-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
 66            android:required="false" />
-66-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-67    </application>
-68
-69</manifest>
+66-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+67        <uses-library
+67-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+68            android:name="androidx.window.sidecar"
+68-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+69            android:required="false" />
+69-->[androidx.window:window:1.0.0] C:\Users\crist\.gradle\caches\transforms-3\3c7c892fa0d1dc32ab5492929999b753\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+70    </application>
+71
+72</manifest>
